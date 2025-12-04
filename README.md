@@ -1,16 +1,50 @@
-# schooltaskdenfinal1
+# 🎓 School Task App – Ders & Görev Takip Uygulaması
 
-A new Flutter project.
+Öğrencilerin derslerini, projelerini, notlarını ve günlük görevlerini kolayca takip edebilmesi için geliştirilmiş modern bir mobil uygulama.  
+Kullanıcılar giriş yapabilir, kendi hesaplarını oluşturabilir ve tüm akademik süreçlerini tek bir uygulama üzerinden yönetebilir.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Uygulamanın Amacı
+Öğrencilerin ders programı, görevler, notlar ve proje takip süreçlerini düzenli ve erişilebilir bir yapıya kavuşturmak.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📱 Uygulama Özellikleri
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 👤 Kullanıcı İşlemleri
+- Kullanıcı hesabı oluşturma  
+- Giriş yapma  
+- Profil tabanlı kişiselleştirilmiş görünüm  
+
+### 📚 Ders Yönetimi
+- Ders listesi görüntüleme  
+- Ders detaylarına erişim  
+- Ders programı takibi  
+
+### 📝 Görev (Task) Yönetimi
+- Yeni görev ekleme  
+- Görev düzenleme / silme  
+- Görevleri takvim üzerinde görüntüleme  
+
+### 📁 Proje Takibi
+- Sidebar üzerinden proje sayfasına hızlı erişim  
+- Proje listesi görüntüleme  
+
+### 🧮 Not Yönetimi
+- Derslere göre not kaydetme  
+- Notları listeleme ve takip etme  
+
+### 📆 Takvim Entegrasyonu
+- Görev ve derslerin takvim görünümünde listelenmesi  
+
+### 🧭 Navigasyon
+- Modern **sidebar** ile ana sayfa, dersler, projeler, görevler ve notlara hızlı erişim  
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+- **Flutter**
+- **Dart**
+- **Android Studio**
+- *(Eğer kullandıysan ekleyebilirim: Firebase Authentication / Firestore)*
