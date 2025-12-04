@@ -47,4 +47,3 @@ Kullanıcılar giriş yapabilir, kendi hesaplarını oluşturabilir ve tüm akad
 - **Flutter**
 - **Dart**
 - **Android Studio**
-- *(Eğer kullandıysan ekleyebilirim: Firebase Authentication / Firestore)*
